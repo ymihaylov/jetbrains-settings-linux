@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="DISABLE_MNEMONICS" value="true" />
+    <option name="smoothScrolling" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+  </component>
+</application>
