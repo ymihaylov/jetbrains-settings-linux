@@ -4,10 +4,10 @@
     <property name="created">2018-12-06T21:59:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-12-06T23:44:03</property>
+    <property name="modified">2018-12-06T23:46:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro Medium" />
 </scheme>
