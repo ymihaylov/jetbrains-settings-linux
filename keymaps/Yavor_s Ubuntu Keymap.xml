@@ -1,0 +1,11 @@
+<keymap version="1" name="Yavor's Ubuntu Keymap" parent="Default for XWin">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="ParameterInfo" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+</keymap>
