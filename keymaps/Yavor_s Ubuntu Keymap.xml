@@ -9,6 +9,10 @@
   </action>
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="NextTab">
