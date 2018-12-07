@@ -9,6 +9,10 @@
   </action>
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="alt l" />
@@ -28,6 +32,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="Replace" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl p" />
