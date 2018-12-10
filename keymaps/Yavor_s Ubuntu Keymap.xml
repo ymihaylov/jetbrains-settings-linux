@@ -19,15 +19,7 @@
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt right" />
-    <keyboard-shortcut first-keystroke="alt close_bracket" />
-  </action>
   <action id="ParameterInfo" />
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt left" />
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
-  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
