@@ -4,6 +4,7 @@
     <option name="DISABLE_MNEMONICS" value="true" />
     <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="smoothScrolling" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
