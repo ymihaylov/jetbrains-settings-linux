@@ -20,6 +20,16 @@
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="GotoTest" />
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="add" />
+    <keyboard-shortcut first-keystroke="equals" />
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="Graph.ZoomOut">
+    <keyboard-shortcut first-keystroke="subtract" />
+    <keyboard-shortcut first-keystroke="minus" />
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
