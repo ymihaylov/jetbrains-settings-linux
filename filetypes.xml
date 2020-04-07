@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="notes.md" type="Markdown" />
+      <mapping pattern="testFeedbackFetchingFromSgApi" type="PHP" />
       <mapping pattern="3_UpAndDown" type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="wise_words" type="PLAIN_TEXT" />
