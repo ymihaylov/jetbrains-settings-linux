@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Selected Files" />
     <option name="defaultScopeName" value="Selected Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Selected Files" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +18,8 @@
     <mask>*.ts</mask>
     <mask>.php</mask>
     <mask>*.tpl</mask>
-    <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>composer.json</mask>
+    <mask>*.php</mask>
   </component>
 </application>
