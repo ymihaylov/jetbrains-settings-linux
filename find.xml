@@ -18,6 +18,7 @@
     <mask>*.tpl</mask>
     <mask>*.yml</mask>
     <mask>composer.json</mask>
+    <mask>!*.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
