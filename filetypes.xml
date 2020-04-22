@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="notes.md" type="Markdown" />
       <mapping pattern="testFeedbackFetchingFromSgApi" type="PHP" />
       <mapping pattern="3_UpAndDown" type="PHP" />
