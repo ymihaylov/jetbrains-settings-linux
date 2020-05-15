@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +17,6 @@
     <mask>*.mxml</mask>
     <mask>*.ts</mask>
     <mask>.php</mask>
-    <mask>*.tpl</mask>
     <mask>*.yml</mask>
     <mask>composer.json</mask>
     <mask>!*.php</mask>
@@ -24,5 +24,6 @@
     <mask>*.lock</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
