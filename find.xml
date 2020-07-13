@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,8 +23,8 @@
     <mask>*.lock</mask>
     <mask>*.json</mask>
     <mask>services.yml</mask>
-    <mask>*.php</mask>
     <mask>*.tpl</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
