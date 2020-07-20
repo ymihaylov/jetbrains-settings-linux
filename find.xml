@@ -23,7 +23,7 @@
     <mask>*.json</mask>
     <mask>services.yml</mask>
     <mask>*.tpl</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
