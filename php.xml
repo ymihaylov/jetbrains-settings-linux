@@ -1,15 +1,15 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="0a0d6acd-6ccc-41bc-bff4-11db7c368df9" name="PHP 7.2" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="0a0d6acd-6ccc-41bc-bff4-11db7c368df9" name="PHP 7.4" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.3" path_separator=":" version="7.3.19-1+ubuntu18.04.1+deb.sury.org+1">
-          <additional_php_ini>/etc/php/7.3/cli/conf.d/10-opcache.ini, /etc/php/7.3/cli/conf.d/10-pdo.ini, /etc/php/7.3/cli/conf.d/15-xml.ini, /etc/php/7.3/cli/conf.d/20-calendar.ini, /etc/php/7.3/cli/conf.d/20-ctype.ini, /etc/php/7.3/cli/conf.d/20-curl.ini, /etc/php/7.3/cli/conf.d/20-dom.ini, /etc/php/7.3/cli/conf.d/20-exif.ini, /etc/php/7.3/cli/conf.d/20-fileinfo.ini, /etc/php/7.3/cli/conf.d/20-ftp.ini, /etc/php/7.3/cli/conf.d/20-gettext.ini, /etc/php/7.3/cli/conf.d/20-iconv.ini, /etc/php/7.3/cli/conf.d/20-json.ini, /etc/php/7.3/cli/conf.d/20-mbstring.ini, /etc/php/7.3/cli/conf.d/20-phar.ini, /etc/php/7.3/cli/conf.d/20-posix.ini, /etc/php/7.3/cli/conf.d/20-readline.ini, /etc/php/7.3/cli/conf.d/20-shmop.ini, /etc/php/7.3/cli/conf.d/20-simplexml.ini, /etc/php/7.3/cli/conf.d/20-sockets.ini, /etc/php/7.3/cli/conf.d/20-sysvmsg.ini, /etc/php/7.3/cli/conf.d/20-sysvsem.ini, /etc/php/7.3/cli/conf.d/20-sysvshm.ini, /etc/php/7.3/cli/conf.d/20-tokenizer.ini, /etc/php/7.3/cli/conf.d/20-wddx.ini, /etc/php/7.3/cli/conf.d/20-xdebug.ini, /etc/php/7.3/cli/conf.d/20-xmlreader.ini, /etc/php/7.3/cli/conf.d/20-xmlwriter.ini, /etc/php/7.3/cli/conf.d/20-xsl.ini</additional_php_ini>
-          <configuration_file>/etc/php/7.3/cli/php.ini</configuration_file>
+      <interpreter name="PHP 7.4">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.4" path_separator=":" version="7.4.10">
+          <additional_php_ini>/etc/php/7.4/cli/conf.d/10-opcache.ini, /etc/php/7.4/cli/conf.d/10-pdo.ini, /etc/php/7.4/cli/conf.d/15-xml.ini, /etc/php/7.4/cli/conf.d/20-calendar.ini, /etc/php/7.4/cli/conf.d/20-ctype.ini, /etc/php/7.4/cli/conf.d/20-dom.ini, /etc/php/7.4/cli/conf.d/20-exif.ini, /etc/php/7.4/cli/conf.d/20-ffi.ini, /etc/php/7.4/cli/conf.d/20-fileinfo.ini, /etc/php/7.4/cli/conf.d/20-ftp.ini, /etc/php/7.4/cli/conf.d/20-gettext.ini, /etc/php/7.4/cli/conf.d/20-iconv.ini, /etc/php/7.4/cli/conf.d/20-json.ini, /etc/php/7.4/cli/conf.d/20-phar.ini, /etc/php/7.4/cli/conf.d/20-posix.ini, /etc/php/7.4/cli/conf.d/20-readline.ini, /etc/php/7.4/cli/conf.d/20-shmop.ini, /etc/php/7.4/cli/conf.d/20-simplexml.ini, /etc/php/7.4/cli/conf.d/20-sockets.ini, /etc/php/7.4/cli/conf.d/20-sysvmsg.ini, /etc/php/7.4/cli/conf.d/20-sysvsem.ini, /etc/php/7.4/cli/conf.d/20-sysvshm.ini, /etc/php/7.4/cli/conf.d/20-tokenizer.ini, /etc/php/7.4/cli/conf.d/20-xdebug.ini, /etc/php/7.4/cli/conf.d/20-xmlreader.ini, /etc/php/7.4/cli/conf.d/20-xmlwriter.ini, /etc/php/7.4/cli/conf.d/20-xsl.ini</additional_php_ini>
+          <configuration_file>/etc/php/7.4/cli/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/share/php" />
           </configuration_options>
@@ -20,6 +20,7 @@
           </debuggers>
           <loaded_extensions>
             <extension name="Core" />
+            <extension name="FFI" />
             <extension name="PDO" />
             <extension name="Phar" />
             <extension name="Reflection" />
@@ -28,7 +29,6 @@
             <extension name="Zend OPcache" />
             <extension name="calendar" />
             <extension name="ctype" />
-            <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
             <extension name="exif" />
@@ -40,7 +40,6 @@
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
-            <extension name="mbstring" />
             <extension name="openssl" />
             <extension name="pcntl" />
             <extension name="pcre" />
@@ -55,7 +54,6 @@
             <extension name="sysvsem" />
             <extension name="sysvshm" />
             <extension name="tokenizer" />
-            <extension name="wddx" />
             <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
