@@ -1,12 +1,12 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="0a0d6acd-6ccc-41bc-bff4-11db7c368df9" name="PHP 7.4" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="0a0d6acd-6ccc-41bc-bff4-11db7c368df9" name="PHP 8" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.4">
+      <interpreter name="PHP 8">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/bin/php-cgi" php_cli="/usr/local/bin/php" path_separator=":" version="8.0.0beta4">
           <additional_php_ini />
           <configuration_file />
