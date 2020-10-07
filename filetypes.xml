@@ -5,6 +5,7 @@
       <mapping pattern="testFeedbackFetchingFromSgApi" type="PHP" />
       <mapping pattern="3_UpAndDown" type="PHP" />
       <mapping pattern="tempClientDomains" type="PLAIN_TEXT" />
+      <mapping pattern="diff_tmp" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="hm_noua" type="PLAIN_TEXT" />
       <mapping pattern="wise_words" type="PLAIN_TEXT" />
