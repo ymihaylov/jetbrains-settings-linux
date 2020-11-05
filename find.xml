@@ -22,8 +22,8 @@
     <mask>services.yml</mask>
     <mask>*.tpl</mask>
     <mask>*.json</mask>
-    <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
