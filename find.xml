@@ -17,12 +17,12 @@
     <mask>!*.php</mask>
     <mask>*Controller.php</mask>
     <mask>*.lock</mask>
-    <mask>services.yml</mask>
     <mask>*.tpl</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*Type.php</mask>
     <mask>*.yml</mask>
+    <mask>services.yml</mask>
   </component>
 </application>
