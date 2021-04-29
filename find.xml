@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +14,6 @@
     <mask>*.ts</mask>
     <mask>.php</mask>
     <mask>composer.json</mask>
-    <mask>!*.php</mask>
     <mask>*Controller.php</mask>
     <mask>*.lock</mask>
     <mask>*.tpl</mask>
@@ -25,5 +23,6 @@
     <mask>services.yml</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>!*.php</mask>
   </component>
 </application>
