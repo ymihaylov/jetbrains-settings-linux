@@ -23,8 +23,8 @@
     <mask>!*.php</mask>
     <mask>*.yaml</mask>
     <mask>*.tpl</mask>
-    <mask>*.yml</mask>
     <mask>*.yml*</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
