@@ -6,14 +6,14 @@
       <mapping pattern="notes.md" type="Markdown" />
       <mapping pattern="testFeedbackFetchingFromSgApi" type="PHP" />
       <mapping pattern="3_UpAndDown" type="PHP" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="wise_words" type="PLAIN_TEXT" />
+      <mapping pattern="slave" type="PLAIN_TEXT" />
       <mapping pattern="tempClientDomains" type="PLAIN_TEXT" />
       <mapping pattern="diff_tmp" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="hm_noua" type="PLAIN_TEXT" />
-      <mapping pattern="wise_words" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="slave" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
