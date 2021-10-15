@@ -9,6 +9,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="Encoding" value="false" />
         <entry key="Position" value="false" />
       </map>
     </option>
