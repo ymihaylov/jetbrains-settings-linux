@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="premium" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="1" />
     <option name="accentColor" value="f9826c" />
