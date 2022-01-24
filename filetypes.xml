@@ -4,6 +4,7 @@
       <mapping pattern="activateTransfer.php" type="AUTO_DETECTED" />
       <mapping pattern="testGetClientDomains.php" type="AUTO_DETECTED" />
       <mapping pattern="3_length_and_indexes" type="AUTO_DETECTED" />
+      <mapping pattern="WiredTiger" type="AUTO_DETECTED" />
       <mapping pattern="notes.md" type="Markdown" />
       <mapping pattern="testFeedbackFetchingFromSgApi" type="PHP" />
       <mapping pattern="3_UpAndDown" type="PHP" />
